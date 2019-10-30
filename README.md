@@ -1,17 +1,36 @@
 # TCGS-Vars-Adjusting
+
 #Standardizing variables, Adjusting by age and sex, and winsoriziation
 
 
 Dear TCGS users; 
 
-Please odownload and open "Main.R" file and follow steps: 
+This program has svereal section: 
 
-1- Save your data into "setwd" directory without header. Also, you should know the column number of your variables. For example, as seen bellow, #col1 is the "PID" or #col5 is the "gender". 
+- data.reading
+
+- winsorizing function
+
+- standardizing function
+
+- residualinzing
+
+- standardizing
+
+- Checking.results
+
+- Exporting Data
+
+
+At first, you can download and open "Main.R" file and follow steps: 
+
+1- Save your data into "setwd" directory without header. You should only know the column numbers of your variables. For example, as seen in "data.reading" section, #col1 is the "PID" or #col5 is the "gender". 
 
 2- Replac all "TargetVar" with "Your Variable Name", for example "tg". 
 
 3- Run all line in R and follow your data in ".sav" and ".csv" format in your directory. 
 
-Note: Before use transformed variables into your work, please check and compare qqplots and histograms for makeing a final decision.
+Note: Before use transformed variables into your own analysis, please check and compare qqplots and histograms for makeing a final decision.
 
-Mahdi
+
+Mahdi Akbarzdaeh
