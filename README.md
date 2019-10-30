@@ -26,11 +26,12 @@ At first, you can download and open "Main.R" file and follow steps:
 
 1- Save your data into "setwd" directory without header. You should only know the column numbers of your variables. For example, as seen in "data.reading" section, #col1 is the "PID" or #col5 is the "gender". 
 
-2- Replac all "TargetVar" with "Your Variable Name", for example "tg". 
+2- Replac all "TargetVar" with "Your_Variable_Name", e.g., "tg". 
 
-3- Run all line in R and follow your data in ".sav" and ".csv" format in your directory. 
+3- Run all lines in R and follow your data in ".sav" and ".csv" format in your directory. 
 
-Note: Before use transformed variables into your own analysis, please check and compare qqplots and histograms for makeing a final decision.
+Note: Before using transformed variables into your own analysis, please check and compare qqplots and histograms for makeing a final decision.
 
 
 Mahdi Akbarzdaeh
+
