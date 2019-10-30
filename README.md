@@ -1,5 +1,7 @@
 # TCGS-Vars-Adjusting
-#Standardizing variables, Adjusting by age and sex, and winsoriziation 
+#Standardizing variables, Adjusting by age and sex, and winsoriziation
+
+
 Dear TCGS users; 
 Please odownload and open "Main.Program.R" file and follow steps: 
 
