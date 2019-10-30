@@ -3,7 +3,8 @@
 
 
 Dear TCGS users; 
-Please odownload and open "Main.Program.R" file and follow steps: 
+
+Please odownload and open "Main.R" file and follow steps: 
 
 1- Save your data into "setwd" directory without header. Also, you should know the column number of your variables. For example, as seen bellow, #col1 is the "PID" or #col5 is the "gender". 
 
@@ -12,3 +13,5 @@ Please odownload and open "Main.Program.R" file and follow steps:
 3- Run all line in R and follow your data in ".sav" and ".csv" format in your directory. 
 
 Note: Before use transformed variables into your work, please check and compare qqplots and histograms for makeing a final decision.
+
+Mahdi
