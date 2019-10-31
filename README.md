@@ -24,7 +24,7 @@ This program has svereal sections:
 - Exporting Data
 
 
-At first, you can download and open "Main.R" file and follow steps: 
+At first, you can download and open "Main.R" file and then follow steps: 
 
 1- Save your data into "setwd" directory without header. You should only know the column numbers of your variables. For example, as seen in "data.reading" section, #col1 is the "PID" or #col5 is the "gender". 
 
