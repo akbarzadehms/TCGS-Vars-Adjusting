@@ -5,7 +5,7 @@
 
 Dear TCGS users; 
 
-This program has svereal section: 
+This program has svereal sections: 
 
 - data.reading
 
