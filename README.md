@@ -17,6 +17,8 @@ This program has svereal sections:
 
 - standardizing
 
+- Winsorization
+
 - Checking.results
 
 - Exporting Data
